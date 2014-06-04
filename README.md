@@ -18,5 +18,5 @@ An awesome product just for foodie~
 Useful link:
 1. Git repo add openshift upstream
    http://stackoverflow.com/questions/12657168/can-i-use-my-existing-git-repo-with-openshift
-2. Mogodb java openshift quick start repo:
+2. Mogodb java openshift quick start repo
    https://github.com/openshift-quickstart/jbossas-mongoDB-quickstart
