@@ -1,7 +1,6 @@
 drunken-avenger
-http://chihuoquan.github.io/drunken-avenger.
 ===============
-
+http://chihuoquan.github.io/drunken-avenger.
 An awesome product just for foodie~
 
 1. Market Analysis
