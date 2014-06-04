@@ -20,3 +20,4 @@ Useful link:
    http://stackoverflow.com/questions/12657168/can-i-use-my-existing-git-repo-with-openshift
 2. Mogodb java openshift quick start repo
    https://github.com/openshift-quickstart/jbossas-mongoDB-quickstart
+
