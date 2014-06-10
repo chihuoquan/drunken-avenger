@@ -10,7 +10,7 @@ http://chihuoquan.github.io/drunken-avenger.
 3. Accounts
    https://docs.google.com/document/d/1LUtUUX2QXb1ctHF_6BDKlc_xUdGHBIx35J8-lAWF4ME/edit?usp=sharing
 3. Build Steps:
-   @Xiaolong jiang TO-DO
+   @Xiaolong jiang I am doing
 
 
 
